@@ -1,0 +1,3 @@
+[submodule "dockers.wiki"]
+	path = dockers.wiki
+	url = ../dockers.wiki.git
